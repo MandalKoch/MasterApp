@@ -1,0 +1,11 @@
+MVG INFO
+
+http://www.mvg-live.de/MvgLive/MvgLive.jsp#haltestelle=Karlsplatz%20(Stachus)&gehweg=5&zeilen=7&ubahn=true&bus=true&tram=true&sbahn=true
+
+OPAC
+
+https://opac.bib.hm.edu/TouchPoint/loginpage.do;jsessionid=D4669672E7D5651FA0A4E9B5D4B3FEFD?methodToCall=showLogin
+
+Prototyp
+
+https://www.figma.com/proto/LyZenmzTKzUxBJqz6C1ifPoZ/Untitled?node-id=13%3A782&scaling=contain
